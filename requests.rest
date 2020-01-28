@@ -1,0 +1,25 @@
+get http://localhost:3223/
+
+###
+
+get http://localhost:3223/api/users
+
+###
+
+post  http://localhost:3223/api/register
+content-type: application/json
+
+{
+  "username": "spongebob",
+  "password": "password"
+}
+
+###
+
+post  http://localhost:3223/api/login
+content-type: application/json
+
+{
+  "username": "spongebob",
+  "password": "squarepants"
+}
