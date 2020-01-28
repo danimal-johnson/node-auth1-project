@@ -2,11 +2,11 @@
 
 ## Topics
 
-- Authentication.
-- Express Middleware.
-- Password Hashing.
-- Sessions
-- Cookies
+- [ ] Authentication.
+- [ ] Express Middleware.
+- [ ] Password Hashing.
+- [ ] Sessions
+- [ ] Cookies
 
 ## Description
 
