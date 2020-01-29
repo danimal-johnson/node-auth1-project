@@ -21,5 +21,9 @@ content-type: application/json
 
 {
   "username": "spongebob",
-  "password": "squarepants"
+  "password": "password"
 }
+
+###
+get http://localhost:3223/api/logout
+
